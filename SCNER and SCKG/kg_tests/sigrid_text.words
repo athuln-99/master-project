@@ -1,0 +1,5 @@
+Sigrid helps you to improve your software by measuring your system’s code quality, and then compares the results against a benchmark of 10,000 industry systems to give you concrete advice on areas where you can improve.
+Sigrid performs code quality checks that have been designed by the Software Improvement Group, which have been used by thousands of development teams over the past 20 years to help improve their software. SIG’s approach is based on the ISO 25010 standard for software quality, and has been accredited to ensure alignment with the standard.
+In Scrum, developers and product owners need to collaborate to prioritize the sprint backlog. This can be challenging because priorities can be slightly different, or at least perceived differently.
+At the end of 2020, we had over 45,000 customers located in over 100 countries, with millions of users.
+Sigrid uses Amazon Aurora features a distributed, fault-tolerant, self-healing storage system that auto-scales up to 128TB per database instance. It delivers high performance and availability with up to 15 low-latency read replicas, point-in-time recovery, continuous backup to Amazon S3.
