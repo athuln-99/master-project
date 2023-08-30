@@ -49,6 +49,10 @@ The code to evaluate the model is also available in this notebook.
 _KG Construction.ipynb_ contains the code to build our Software Context Knowledge Graph (SCKG) based on the input text/documentation
 that is provided to the model. It contains the code for all the rule-based relation mapping that defines all the edges between the KG nodes.
 
+_NER Visualization.ipynb_ contains the code to use our fine-tuned NER model and visualize the the predicted entities in documentation.
+We use displaCy to render the NER visualization. The following image is an example of what the visualization will look like:
+![plot](NER_visual.png)
+
 ## dataset/custom
 Directory contains our 5-fold cross validation data in a structure where each line of the ".words" files corresponds
 each line of its ".ner" counterpart. Basically ".words" contain the original sentence and ".ner" contains the sentences
